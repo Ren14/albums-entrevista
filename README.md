@@ -1,4 +1,4 @@
-## Proyecto para entrevista técnica con Pedidos YA
+## Proyecto para entrevista técnica
 
 ### Autor
 Renzo Mauro Ontivero
