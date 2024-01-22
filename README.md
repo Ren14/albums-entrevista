@@ -1,9 +1,5 @@
 ## Proyecto para entrevista técnica
 
-### Autor
-Renzo Mauro Ontivero
-[renn.carp@gmail.com]()
-
 ### Idea
 A partir del tutorial denominado Tutorial: Developing a RESTful API with Go and Gin (https://go.dev/doc/tutorial/web-service-gin), me propuse tomar como base el CRUD que se explica, y continuar aplicando conceptos básicos de CleanCode, SOLID y arquitectura de puertos y adaptadores. 
 
